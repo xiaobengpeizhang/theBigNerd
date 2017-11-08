@@ -16,5 +16,4 @@ class ItemStore {
         allItems.append(newItem)
         return newItem
     }
-    
 }
